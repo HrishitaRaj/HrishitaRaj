@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm [Hrishita Raj]</h1>
 <h3 align="center">A passionate developer working on AI, ML, and full-stack applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HrishitaRaj&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </p>
