@@ -6,9 +6,9 @@
 ---
 
 ### 🚀 About Me  
-🔹 **AI/ML Enthusiast** | 🔹 **Full Stack Developer** | 🔹 **Tech Explorer**  
-🔹 Currently building **FinWise**, **SueMeNot**, and **Coach**  
-🔹 Love working with **AI-powered applications, finance, and legal tech**  
+🔹 **AI/ML Enthusiast** | 🔹 **Full Stack Developer** | 🔹 **Caffeine Addict**  
+🔹 Currently building **StudySync**, **Get shift Done**, and **SueMeNot**  
+🔹 Love working with **AI-powered applications, automations, and modern tech**  
 
 ### 🛠 Tech Stack  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
