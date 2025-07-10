@@ -7,7 +7,7 @@
 
 ### 🚀 About Me  
 🔹 **AI/ML Enthusiast** | 🔹 **Full Stack Developer** | 🔹 **Caffeine Addict**  
-🔹 Currently building **StudySync**, **Get shift Done**, and **SueMeNot**  
+🔹 Currently building **VisioCareAI**, **Get shift Done**, and **Ride-Sharing**  
 🔹 Love working with **AI-powered applications, automations, and modern tech**  
 
 ### 🛠 Tech Stack  
