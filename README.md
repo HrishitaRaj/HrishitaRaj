@@ -7,7 +7,7 @@
 
 ### 🚀 About Me  
 🔹 **AI/ML Enthusiast** | 🔹 **Full Stack Developer** | 🔹 **Caffeine Addict**  
-🔹 Currently building **VisioCareAI**, **Get shift Done**, and **Ride-Sharing**  
+🔹 Currently building **VisioCareAI**, **Get shift Done**, and **9toThrive**  
 🔹 Love working with **AI-powered applications, automations, and modern tech**  
 
 ### 🛠 Tech Stack  
@@ -37,7 +37,7 @@
 
 ### 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HrishitaRaj&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=HrishitaRaj&theme=orange" />
 </p>  
 
 ### 🚀 Most Used Languages  
