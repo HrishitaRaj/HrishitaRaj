@@ -30,7 +30,7 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HrishitaRaj&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HrishitaRaj&show_icons=true&theme=orange" />
 </p>
 
 ---
@@ -42,14 +42,14 @@
 
 ### 🚀 Most Used Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrishitaRaj&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrishitaRaj&layout=compact&theme=orange" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HrishitaRaj&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HrishitaRaj&theme=orange" />
 </p>
 
 ---
