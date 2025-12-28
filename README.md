@@ -28,30 +28,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HrishitaRaj&show_icons=true&theme=radical" />
-</p>
-
----
-
-### 🔥 GitHub Streak  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HrishitaRaj&theme=orange" />
-</p>  
-
-### 🚀 Most Used Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrishitaRaj&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HrishitaRaj&theme=radical" />
-</p>
-
 ---
 
 ### 📫 Connect with Me  
